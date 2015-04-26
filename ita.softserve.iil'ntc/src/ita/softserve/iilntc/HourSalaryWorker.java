@@ -1,7 +1,5 @@
 package ita.softserve.iilntc;
 
-import java.util.*;
-
 public class HourSalaryWorker extends Worker {
     private double paymentPerHour;
 
